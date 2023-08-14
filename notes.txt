@@ -1,0 +1,9 @@
+Some modification is done for order-success page.
+
+Bootstrap 5
+--> Accordian component
+--> d-flex
+--> icons(star,cart etc)
+--> Card
+--> button(flex-grow-1){to expand the button}
+--> 
